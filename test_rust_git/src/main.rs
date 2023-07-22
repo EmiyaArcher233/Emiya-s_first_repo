@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, git!");
+    println!("Hello, git! Now I'm in new_branch1!");
 }
